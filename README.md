@@ -5,7 +5,7 @@ A curated collection of focused, production-ready Java libraries solving real-wo
 ## 📚 Libraries
 
 ### 1. [safe-config](safe-config/) - Configuration Validation & Secret Masking
-**Maven Central:** `io.github.upendra-manike:safe-config:0.1.0`
+**Maven Central:** `io.github.upendra-manike:safe-config:0.1.1`
 
 Fail-fast configuration loading with rich error messages and automatic secret masking for safe logging.
 
@@ -20,7 +20,7 @@ Fail-fast configuration loading with rich error messages and automatic secret ma
 ---
 
 ### 2. [resilient-core](resilient-core/) - Retry, Timeout & Circuit Breaker
-**Maven Central:** `io.github.upendra-manike:resilient-core:0.1.0`
+**Maven Central:** `io.github.upendra-manike:resilient-core:0.1.1`
 
 Unified retry, timeout, and circuit breaker utilities for building resilient Java services.
 
@@ -35,7 +35,7 @@ Unified retry, timeout, and circuit breaker utilities for building resilient Jav
 ---
 
 ### 3. [async-flow](async-flow/) - Structured Concurrency & Async Workflows
-**Maven Central:** `io.github.upendra-manike:async-flow:0.1.0`
+**Maven Central:** `io.github.upendra-manike:async-flow:0.1.1`
 
 Structured concurrency utilities and async task orchestration for modern Java applications.
 
@@ -50,7 +50,7 @@ Structured concurrency utilities and async task orchestration for modern Java ap
 ---
 
 ### 4. [db-guard](db-guard/) - Safe Database Access Helpers
-**Maven Central:** `io.github.upendra-manike:db-guard:0.1.0`
+**Maven Central:** `io.github.upendra-manike:db-guard:0.1.1`
 
 Lightweight database safety utilities including SQL injection prevention and pagination helpers.
 
@@ -65,7 +65,7 @@ Lightweight database safety utilities including SQL injection prevention and pag
 ---
 
 ### 5. [api-shield](api-shield/) - Safe API Clients & Validation
-**Maven Central:** `io.github.upendra-manike:api-shield:0.1.0`
+**Maven Central:** `io.github.upendra-manike:api-shield:0.1.1`
 
 Safe HTTP client wrapper and request validation utilities for building secure API integrations.
 
@@ -80,7 +80,7 @@ Safe HTTP client wrapper and request validation utilities for building secure AP
 ---
 
 ### 6. [arch-guard](arch-guard/) - Architecture Rule Enforcement
-**Maven Central:** `io.github.upendra-manike:arch-guard:0.1.0`
+**Maven Central:** `io.github.upendra-manike:arch-guard:0.1.1`
 
 Dependency boundary checking and architecture rule enforcement for maintaining clean code structure.
 
@@ -95,7 +95,7 @@ Dependency boundary checking and architecture rule enforcement for maintaining c
 ---
 
 ### 7. [java-genai-kit](java-genai-kit/) - GenAI Utilities & Observability
-**Maven Central:** `io.github.upendra-manike:java-genai-kit:0.1.0`
+**Maven Central:** `io.github.upendra-manike:java-genai-kit:0.1.1`
 
 GenAI utilities including prompt management, versioning, and token usage tracking for Java applications.
 
@@ -117,7 +117,7 @@ Add any library to your `pom.xml`:
 <dependency>
     <groupId>io.github.upendra-manike</groupId>
     <artifactId>safe-config</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
 </dependency>
 ```
 

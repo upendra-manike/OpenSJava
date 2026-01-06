@@ -10,7 +10,7 @@ Add the dependency (once published to Maven Central):
 <dependency>
   <groupId>io.github.upendramanike</groupId>
   <artifactId>safe-config</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.1-SNAPSHOT</version>
 </dependency>
 ```
 

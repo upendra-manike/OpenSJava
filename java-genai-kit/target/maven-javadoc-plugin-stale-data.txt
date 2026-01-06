@@ -19,28 +19,28 @@
 -docencoding
 'UTF-8'
 -doctitle
-'java-genai-kit 0.1.0 API'
+'java-genai-kit 0.1.1 API'
 -use
 -version
 -windowtitle
-'java-genai-kit 0.1.0 API'
+'java-genai-kit 0.1.1 API'
 io.github.upendramanike.genai
 /Users/upendrakumarmanike/.m2/repository/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar = 1723281306000
 /Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/src/main/java = 1767714823945
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/generated-sources/annotations = 1767714847532
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/tag-search-index.js = 1767714848762
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/overview-tree.html = 1767714848757
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/module-search-index.js = 1767714848762
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/index.html = 1767714848766
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/package-search-index.js = 1767714848762
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/jquery-ui.overrides.css = 1767714848771
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/index-all.html = 1767714848766
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/allpackages-index.html = 1767714848761
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/member-search-index.js = 1767714848762
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/script.js = 1767714848769
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/stylesheet.css = 1767714848769
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/help-doc.html = 1767714848767
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/element-list = 1767714848747
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/allclasses-index.html = 1767714848761
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/type-search-index.js = 1767714848762
-/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/search.js = 1767714848769
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/generated-sources/annotations = 1767715418734
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/tag-search-index.js = 1767715419675
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/overview-tree.html = 1767715419670
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/module-search-index.js = 1767715419675
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/index.html = 1767715419679
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/package-search-index.js = 1767715419675
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/jquery-ui.overrides.css = 1767715419682
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/index-all.html = 1767715419678
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/allpackages-index.html = 1767715419674
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/member-search-index.js = 1767715419675
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/script.js = 1767715419681
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/stylesheet.css = 1767715419681
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/help-doc.html = 1767715419680
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/element-list = 1767715419660
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/allclasses-index.html = 1767715419674
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/type-search-index.js = 1767715419675
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/java-genai-kit/target/apidocs/search.js = 1767715419681
