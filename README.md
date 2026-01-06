@@ -2,6 +2,12 @@
 
 A curated collection of focused, production-ready Java libraries solving real-world problems in the Java ecosystem. Each library is lightweight, well-tested, and designed for easy adoption.
 
+## 🌱 Spring Boot Ecosystem
+
+Many libraries in this suite are designed to solve **real, recurring Spring Boot production problems** that teams face daily. These are **architect-level solutions**, not beginner utilities.
+
+**Spring Framework and Spring Boot are powerful, but many production problems are not solved cleanly out-of-the-box.** This suite addresses those gaps.
+
 ## 📚 Libraries
 
 ### 1. [safe-config](safe-config/) - Configuration Validation & Secret Masking
@@ -109,6 +115,91 @@ GenAI utilities including prompt management, versioning, and token usage trackin
 
 ---
 
+## 🌸 Spring Boot Libraries
+
+### 8. [spring-observability-kit](spring-observability-kit/) - Observability & Logging
+**Maven Central:** `io.github.upendra-manike:spring-observability-kit:0.1.1`
+
+Auto correlation IDs, structured JSON logs, and request lifecycle tracing for Spring Boot applications.
+
+**Problem solved:**
+- No correlation IDs across async operations, HTTP clients, and message queues
+- Logs too noisy without structured context
+- Hard to trace request lifecycle across distributed systems
+
+**Use cases:**
+- Automatic correlation ID generation and propagation
+- Structured logging with MDC integration
+- Request lifecycle tracing
+- Distributed tracing support
+
+**Keywords:** observability, logging, correlation ID, tracing, structured logging, Spring Boot, MDC, request tracing, distributed tracing
+
+---
+
+### 9. [spring-test-kit](spring-test-kit/) - Testing Utilities
+**Maven Central:** `io.github.upendra-manike:spring-test-kit:0.1.1`
+
+Test data builders, deterministic async testing, and lightweight test slices for Spring Boot applications.
+
+**Problem solved:**
+- Slow `@SpringBootTest` with full application context
+- Flaky integration tests due to timing issues
+- Hard test data setup with boilerplate code
+- Async testing complexity
+
+**Use cases:**
+- Fluent test data builders
+- Deterministic async testing utilities
+- Lightweight test slices (faster than `@SpringBootTest`)
+- Timeout and polling utilities
+
+**Keywords:** testing, test utilities, async testing, test data builders, Spring Boot testing, test slices, integration testing, unit testing
+
+---
+
+### 10. [spring-security-guard](spring-security-guard/) - Security Validation
+**Maven Central:** `io.github.upendra-manike:spring-security-guard:0.1.1`
+
+Security config linting, runtime validation, and role & permission sanity checks for Spring Boot applications.
+
+**Problem solved:**
+- Over-permissive security rules (`permitAll()` on sensitive endpoints)
+- Missing method-level security checks
+- Token validation mistakes
+- Role/permission inconsistencies
+
+**Use cases:**
+- Security configuration validation at startup
+- Runtime role/permission checking
+- Method-level security validation
+- Endpoint security analysis
+
+**Keywords:** security, Spring Security, validation, roles, permissions, security linting, access control, authentication, authorization
+
+---
+
+### 11. [spring-feature-toggle](spring-feature-toggle/) - Feature Flags
+**Maven Central:** `io.github.upendra-manike:spring-feature-toggle:0.1.1`
+
+Typed feature flags, runtime toggles, rollback support, and audit logs for Spring Boot applications.
+
+**Problem solved:**
+- Ad-hoc if-else flags that are hard to manage
+- No rollback strategy for features
+- No audit trail of flag usage
+- Type safety issues with string-based flags
+
+**Use cases:**
+- Typed feature flags with runtime toggling
+- Quick rollback for incident response
+- Complete audit trail of flag usage
+- Centralized flag registry
+
+**Keywords:** feature flags, feature toggles, A/B testing, rollout, rollback, audit logging, Spring Boot, runtime configuration
+
+---
+
 ## 🚀 Quick Start
 
 Add any library to your `pom.xml`:
@@ -126,6 +217,8 @@ Replace `safe-config` with any library name from the list above.
 ## 📖 Documentation
 
 Each library has its own README with detailed usage examples:
+
+**Core Java Libraries:**
 - [safe-config README](safe-config/README.md)
 - [resilient-core](resilient-core/)
 - [async-flow](async-flow/)
@@ -134,13 +227,32 @@ Each library has its own README with detailed usage examples:
 - [arch-guard](arch-guard/)
 - [java-genai-kit](java-genai-kit/)
 
+**Spring Boot Libraries:**
+- [spring-observability-kit](spring-observability-kit/)
+- [spring-test-kit](spring-test-kit/)
+- [spring-security-guard](spring-security-guard/)
+- [spring-feature-toggle](spring-feature-toggle/)
+
 ## 🎯 Design Principles
 
 - **Focused**: Each library solves one specific problem well
-- **Lightweight**: Minimal dependencies, no framework lock-in
+- **Lightweight**: Minimal dependencies, no framework lock-in (Spring libraries are optional)
 - **Production-ready**: Well-tested, documented, and maintained
 - **Modern Java**: Built for Java 17+ with modern patterns
 - **Zero-config**: Works out of the box with sensible defaults
+- **Spring Boot Ready**: Spring libraries integrate seamlessly with Spring Boot auto-configuration
+
+## 🏆 Top 5 Spring Packages (By Priority)
+
+| Priority | Package                    | Problem Solved                    |
+| -------- | -------------------------- | ---------------------------------- |
+| ⭐ 1      | `spring-observability-kit` | Correlation IDs & structured logs  |
+| ⭐ 2      | `spring-test-kit`          | Fast, reliable testing             |
+| ⭐ 3      | `spring-security-guard`     | Security misconfigurations         |
+| ⭐ 4      | `spring-feature-toggle`     | Feature rollout & rollback          |
+| ⭐ 5      | `safe-config`              | Configuration validation           |
+
+These have **mass adoption potential** in Spring Boot production environments.
 
 ## 📦 Maven Central
 
@@ -172,4 +284,5 @@ Apache License 2.0 - See LICENSE file for details.
 ---
 
 **Built for developers who want focused, high-quality Java libraries without the bloat.**
+
 

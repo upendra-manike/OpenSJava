@@ -50,3 +50,4 @@ If a required property is missing or cannot be converted to the target type,
 `ConfigBindingException` is thrown with a descriptive message.
 
 
+

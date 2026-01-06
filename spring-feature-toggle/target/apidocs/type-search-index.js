@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.upendramanike.featuretoggle","l":"FeatureFlag"},{"p":"io.github.upendramanike.featuretoggle","l":"FeatureFlagAudit"},{"p":"io.github.upendramanike.featuretoggle","l":"FeatureFlagRegistry"}];updateSearchResults();

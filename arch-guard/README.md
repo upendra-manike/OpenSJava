@@ -51,3 +51,4 @@ boolean allowed = checker.isAllowed("com.example.api.Service");
 
 architecture, dependency checking, code governance, layer enforcement, clean architecture, dependency rules
 
+

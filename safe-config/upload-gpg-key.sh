@@ -36,3 +36,4 @@ echo ""
 echo "Or use curl to upload:"
 echo "curl -X POST --data-binary @- https://keyserver.ubuntu.com/pks/add <<< \"\$(gpg --armor --export $GPG_KEY)\""
 
+
