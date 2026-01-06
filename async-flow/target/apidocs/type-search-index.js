@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.upendramanike.asyncflow","l":"CancellationToken.CancellationException"},{"p":"io.github.upendramanike.asyncflow","l":"CancellationToken"},{"p":"io.github.upendramanike.asyncflow","l":"TaskExecutor"}];updateSearchResults();

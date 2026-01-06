@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/src/main/java:/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'db-guard 0.1.0 API'
+-use
+-version
+-windowtitle
+'db-guard 0.1.0 API'
+io.github.upendramanike.dbguard
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/src/main/java = 1767712817577
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/generated-sources/annotations = 1767714615975
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/tag-search-index.js = 1767714616819
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/overview-tree.html = 1767714616814
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/module-search-index.js = 1767714616818
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/index.html = 1767714616822
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/package-search-index.js = 1767714616819
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/jquery-ui.overrides.css = 1767714616826
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/index-all.html = 1767714616822
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/allpackages-index.html = 1767714616818
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/member-search-index.js = 1767714616819
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/script.js = 1767714616824
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/stylesheet.css = 1767714616824
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/help-doc.html = 1767714616824
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/element-list = 1767714616804
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/allclasses-index.html = 1767714616818
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/type-search-index.js = 1767714616819
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/db-guard/target/apidocs/search.js = 1767714616825

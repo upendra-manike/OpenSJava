@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/src/main/java:/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'resilient-core 0.1.0 API'
+-use
+-version
+-windowtitle
+'resilient-core 0.1.0 API'
+io.github.upendramanike.resilientcore
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/src/main/java = 1767712817574
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/generated-sources/annotations = 1767714602611
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/tag-search-index.js = 1767714603787
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/overview-tree.html = 1767714603782
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/module-search-index.js = 1767714603786
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/index.html = 1767714603791
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/package-search-index.js = 1767714603786
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/jquery-ui.overrides.css = 1767714603796
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/serialized-form.html = 1767714603771
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/index-all.html = 1767714603791
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/allpackages-index.html = 1767714603786
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/member-search-index.js = 1767714603787
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/script.js = 1767714603794
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/stylesheet.css = 1767714603793
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/help-doc.html = 1767714603792
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/element-list = 1767714603764
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/allclasses-index.html = 1767714603785
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/type-search-index.js = 1767714603787
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/resilient-core/target/apidocs/search.js = 1767714603794

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.upendramanike.archguard","l":"DependencyChecker"},{"p":"io.github.upendramanike.archguard","l":"DependencyChecker.DependencyViolationException"}];updateSearchResults();

@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/src/main/java:/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'arch-guard 0.1.0 API'
+-use
+-version
+-windowtitle
+'arch-guard 0.1.0 API'
+io.github.upendramanike.archguard
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/src/main/java = 1767712914000
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/generated-sources/annotations = 1767714628763
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/tag-search-index.js = 1767714629615
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/overview-tree.html = 1767714629609
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/module-search-index.js = 1767714629612
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/index.html = 1767714629619
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/package-search-index.js = 1767714629612
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/jquery-ui.overrides.css = 1767714629623
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/serialized-form.html = 1767714629603
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/index-all.html = 1767714629618
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/allpackages-index.html = 1767714629612
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/member-search-index.js = 1767714629613
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/script.js = 1767714629621
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/stylesheet.css = 1767714629621
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/help-doc.html = 1767714629620
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/element-list = 1767714629596
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/allclasses-index.html = 1767714629611
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/type-search-index.js = 1767714629613
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/arch-guard/target/apidocs/search.js = 1767714629621

@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/src/main/java:/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'api-shield 0.1.0 API'
+-use
+-version
+-windowtitle
+'api-shield 0.1.0 API'
+io.github.upendramanike.apishield
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/src/main/java = 1767712902000
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/generated-sources/annotations = 1767714622124
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/tag-search-index.js = 1767714623113
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/overview-tree.html = 1767714623108
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/module-search-index.js = 1767714623112
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/index.html = 1767714623115
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/package-search-index.js = 1767714623112
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/jquery-ui.overrides.css = 1767714623119
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/serialized-form.html = 1767714623102
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/index-all.html = 1767714623115
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/allpackages-index.html = 1767714623112
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/member-search-index.js = 1767714623112
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/script.js = 1767714623117
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/stylesheet.css = 1767714623117
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/help-doc.html = 1767714623116
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/element-list = 1767714623096
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/allclasses-index.html = 1767714623111
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/type-search-index.js = 1767714623112
+/Users/upendrakumarmanike/Documents/GitHub/JAVA/OpenSJava/api-shield/target/apidocs/search.js = 1767714623118
