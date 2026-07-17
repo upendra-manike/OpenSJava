@@ -277,9 +277,9 @@ Apache License 2.0 - See LICENSE file for details.
 
 ## 🔗 Links
 
-- **GitHub**: https://github.com/upendrakumarmanike/OpenSJava
+- **GitHub**: https://github.com/upendra-manike/OpenSJava
 - **Maven Central**: https://central.sonatype.com/artifact/io.github.upendra-manike
-- **Issues**: https://github.com/upendrakumarmanike/OpenSJava/issues
+- **Issues**: https://github.com/upendra-manike/OpenSJava/issues
 
 ---
 

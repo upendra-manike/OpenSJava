@@ -10,7 +10,7 @@
 
     <name>arch-guard</name>
     <description>Architecture and dependency rule enforcement for Java codebases.</description>
-    <url>https://github.com/upendrakumarmanike/OpenSJava</url>
+    <url>https://github.com/upendra-manike/OpenSJava</url>
 
     <licenses>
         <license>
@@ -26,9 +26,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/upendrakumarmanike/OpenSJava.git</connection>
-        <developerConnection>scm:git:ssh://github.com:upendrakumarmanike/OpenSJava.git</developerConnection>
-        <url>https://github.com/upendrakumarmanike/OpenSJava</url>
+        <connection>scm:git:git://github.com/upendra-manike/OpenSJava.git</connection>
+        <developerConnection>scm:git:ssh://github.com:upendra-manike/OpenSJava.git</developerConnection>
+        <url>https://github.com/upendra-manike/OpenSJava</url>
     </scm>
 
     <properties>

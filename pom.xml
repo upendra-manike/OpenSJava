@@ -10,7 +10,7 @@
 
     <name>OpenSJava Libraries</name>
     <description>Parent project for a suite of focused, high-impact Java libraries.</description>
-    <url>https://github.com/upendrakumarmanike/OpenSJava</url>
+    <url>https://github.com/upendra-manike/OpenSJava</url>
 
     <modules>
         <module>safe-config</module>
@@ -19,6 +19,7 @@
         <module>db-guard</module>
         <module>api-shield</module>
         <module>arch-guard</module>
+        <module>smart-cache</module>
         <!-- Temporarily disabled until Sonatype auth is fully configured
         <module>java-genai-kit</module>
         -->
