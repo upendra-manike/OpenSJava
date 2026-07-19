@@ -179,7 +179,7 @@
                 <configuration>
                     <skip>${gpg.skip}</skip>
                     <useAgent>true</useAgent>
-                    <keyname>537E05AE209ED7AE8790C4A4240C903B13D9C122</keyname>
+                    <keyname>7816AE334A9FD264AD6D9218002A2C53BC97221F</keyname>
                 </configuration>
             </plugin>
         </plugins>
