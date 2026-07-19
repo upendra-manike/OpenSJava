@@ -39,6 +39,10 @@
         <maven.compiler.target>17</maven.compiler.target>
         <junit.version>5.10.2</junit.version>
         <spring-boot.version>3.2.0</spring-boot.version>
+        <!-- Set -Dgpg.skip=true only for local installs; Central requires signatures for release. -->
+        <gpg.skip>false</gpg.skip>
+        <!-- https://central.sonatype.org/publish/publish-portal-maven/ -->
+        <central-publishing-maven-plugin.version>0.10.0</central-publishing-maven-plugin.version>
     </properties>
 
     <dependencies>
@@ -74,6 +78,17 @@
 
     <build>
         <plugins>
+            <plugin>
+                <groupId>org.sonatype.central</groupId>
+                <artifactId>central-publishing-maven-plugin</artifactId>
+                <version>${central-publishing-maven-plugin.version}</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <publishingServerId>central</publishingServerId>
+                    <deploymentName>devguard-core-${project.version}</deploymentName>
+                </configuration>
+            </plugin>
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -138,23 +153,48 @@
                 </executions>
                 <configuration>
                     <skip>${gpg.skip}</skip>
-                    <useAgent>false</useAgent>
+                    <useAgent>true</useAgent>
                     <keyname>537E05AE209ED7AE8790C4A4240C903B13D9C122</keyname>
-                    <gpgArguments>
-                        <arg>--pinentry-mode</arg>
-                        <arg>loopback</arg>
-                        <arg>--batch</arg>
-                        <arg>--no-tty</arg>
-                    </gpgArguments>
                 </configuration>
             </plugin>
         </plugins>
     </build>
 
-    <distributionManagement>
-        <repository>
-            <id>central</id>
-            <url>https://central.sonatype.com/api/v1/publisher</url>
-        </repository>
-    </distributionManagement>
+    <profiles>
+        <!-- Pinentry loopback + passphrase from settings (server id gpg.passphrase). Use in CI / Cursor. -->
+        <profile>
+            <id>sign-loopback</id>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-gpg-plugin</artifactId>
+                        <configuration>
+                            <useAgent>false</useAgent>
+                            <passphraseServerId>gpg.passphrase</passphraseServerId>
+                            <gpgArguments>
+                                <arg>--pinentry-mode</arg>
+                                <arg>loopback</arg>
+                            </gpgArguments>
+                        </configuration>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+        <!-- Creates target/central-publishing/central-bundle.zip without uploading (for manual portal upload). -->
+        <profile>
+            <id>central-bundle-only</id>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.sonatype.central</groupId>
+                        <artifactId>central-publishing-maven-plugin</artifactId>
+                        <configuration>
+                            <skipPublishing>true</skipPublishing>
+                        </configuration>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
 </project>
