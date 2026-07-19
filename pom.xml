@@ -20,6 +20,7 @@
         <module>api-shield</module>
         <module>arch-guard</module>
         <module>smart-cache</module>
+        <module>devguard-core</module>
         <!-- Temporarily disabled until Sonatype auth is fully configured
         <module>java-genai-kit</module>
         -->
